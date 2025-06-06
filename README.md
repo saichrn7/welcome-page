@@ -1,0 +1,2 @@
+# welcome-page
+cf setup
